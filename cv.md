@@ -2,8 +2,8 @@
 
 # Contacts
 
-* __E-mail:__ [sokolova.nadezhda@gmail.com]
-* __GitHub:__ [Sokolova-Nadezhda]
+* __E-mail:__ sokolova.nadezhda@gmail.com
+* __GitHub:__ [Sokolova-Nadezhda](https://github.com/Sokolova-Nadezhda)
 
 # About Me
 
